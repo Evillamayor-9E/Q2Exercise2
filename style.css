@@ -1,0 +1,14 @@
+body {
+	background-color: lightgreen;
+	color: darkgreen;
+
+}
+
+.container {
+	background-color: whitesmoke;
+}
+
+img {
+	width: 280px;
+	box-shadow: -20px 22px 50px -9px rgba(0,0,0,0.75);
+}
